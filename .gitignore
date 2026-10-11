@@ -1,0 +1,4 @@
+venv
+.idea
+houses.db
+__pycache__
